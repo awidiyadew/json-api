@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Darth_Vader.jpg/220px-Darth_Vader.jpg",
+      "firstName": "Darth",
+      "lastName": "Vader",
+      "age": 53
+    },
+    {
+      "id": 2,
+      "photo": "http://24.media.tumblr.com/tumblr_ljrvi96DR01qc7co7o1_400.png",
+      "firstName": "Luke",
+      "lastName": "Skywalker",
+      "age": 28
+    }
+  ]
+}
