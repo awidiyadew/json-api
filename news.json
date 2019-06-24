@@ -1,0 +1,116 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Politic"
+    },
+    {
+      "id": 2,
+      "name": "Sport"
+    },
+    {
+      "id": 3,
+      "name": "Entertainment"
+    },
+    {
+      "id": 4,
+      "name": "Technology"
+    },
+    {
+      "id": 5,
+      "name": "News"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "title": "'Man up' and face scrutiny, Hunt tells Johnson",
+      "description": "Jeremy Hunt said he was \"not interested\" in Boris Johnson's private life, but challenged him to a TV debate.",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/17C79/production/_107510479_compositehuntjohnson.jpg",
+      "publishedAt": "2019-06-24T03:15:58Z",
+      "content": "He said he was \"not interested\" in Mr Johnson's private life but told him to \"man up\" and debate with him on Sky News this week.\n\nMr Johnson, writing in the Daily Telegraph, signalled that his focus was on leaving the EU on 31 October.\n\nHe suggested that the UK would face a \"democratic explosion\" if it did not leave by that date.\n\nIn his newspaper column, he said: \"This time we are not going to bottle it. We are not going to fail.\"\n\nIt comes as Mr Johnson faces pressure to answer questions about a row with his partner in the early hours of Friday which led to police being called to his London home.\n\nThe Metropolitan Police have said they will not be taking any further action on the incident."
+    },
+    {
+      "id": 2,
+      "categoryId": 5,
+      "title": "India tent collapse kills 14, injures 50",
+      "description": "Officials say some were electrocuted when storms caused a tent to collapse at a religious event.",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/D6E3/production/_107511055_hi054844261.jpg",
+      "publishedAt": "2019-06-24T02:40:33Z",
+      "content": "At least 14 people were killed and more than 50 injured when heavy rain and strong winds caused a huge tent to collapse in the Indian state of Rajasthan on Sunday.\n\nSome were electrocuted by live wires as the tent caved in, and others killed by falling debris, Reuters reported.\n\nLocal outlet the Hindustan Times said 300 people had gathered inside the tent for a religious event.\n\nThe collapse took place in the Barmer district of Rajasthan."
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "title": "Rugby star's fundraiser shut down in anti-gay row",
+      "description": "Israel Folau had sought donations to fight his sacking by Rugby Australia over social media posts.",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/10D25/production/_107510986_9c2530d8-c12b-4157-98c7-2c952c1fe7f2.jpg",
+      "publishedAt": "2019-06-24T01:51:16Z",
+      "content": "A controversial fundraising page set up by sacked Australian rugby player Israel Folau has been shut down for promoting the exclusion of LGBT people, website GoFundMe says.\n\nFolau had his contract with Rugby Australia (RA) terminated in May after he said that \"hell awaits\" gay people.\n\nHe asked for public donations to help him with a legal fight against RA, arguing it dismissed him unlawfully.\n\nGoFundMe said the page violated its rules. All donations will be refunded.\n\n\"As a company, we are absolutely committed to the fight for equality for LGBTIQ+ people and fostering an environment of inclusivity,\" said spokeswoman Nicola Britton.\n\n\"While we welcome GoFundMe's engaging in diverse civil debate, we do not tolerate the promotion of discrimination or exclusion.\"\n\nFolau is a Christian who argues his contract termination was an act of religious discrimination."
+    },
+    {
+      "id": 4,
+      "categoryId": 3,
+      "title": "Woman left alone on board parked plane in Canada",
+      "description": "Tiffani Adams says she has experienced \"re-occurring night terrors\" since the incident.",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/12B2E/production/_107509567_gettyimages-1130273721.jpg",
+      "publishedAt": "2019-06-23T18:54:25Z",
+      "content": "A woman has said she was left alone on an Air Canada plane after falling asleep during a flight.\n\nTiffani Adams said she fell asleep while flying from Quebec to Toronto on 9 June. When she woke up, she was freezing cold and still buckled into her seat, but the aircraft was parked.\n\nShe said she had experienced \"reoccurring night terrors\" since the incident took place.\n\nAir Canada has confirmed the incident occurred and is investigating.\n\nMs Adams said on Facebook that she woke up \"around midnight [a few hours after the flight landed] freezing cold still trapped in my seat in complete darkness.\"\n\nShe said the experience was \"terrifying\"."
+    },
+    {
+      "id": 5,
+      "categoryId": 5,
+      "title": "Australian children rescued from Syria IS camp",
+      "description": "The group include orphans of notorious Australian militant Khaled Sharrouf.",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/FB86/production/_107509346_4ee97115-d1cc-4c19-a68c-5fc74b58b143.jpg",
+      "publishedAt": "2019-06-23T18:21:09Z",
+      "content": "Eight children, including six taken by their Australian parents to join the Islamic State (IS) group, have been evacuated from a Syrian refugee camp.\n\nThe group includes three orphaned children of notorious Australian militant Khaled Sharrouf.\n\nThe government were able to evacuate the children in secret in conjunction with aid groups, Australian media say.\n\nPrime Minister Scott Morrison confirmed they had been freed from a \"bleak and complicated'' situation.\n\n\"The fact that parents put their children into harm's way by taking them into a war zone was a despicable act,'' Mr Morrison said. \"However, children should not be punished for the crimes of their parents.\""
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "title": "Women's World Cup 2019: England beat Cameroon in fiery encounter to reach quarter-finals",
+      "description": "England beat Cameroon 3-0 in an extraordinary last-16 tie to set-up a Women's World Cup quarter-final with Norway.",
+      "imageUrl": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/3566/production/_107507631_england.jpg",
+      "publishedAt": "2019-06-23T17:55:22Z",
+      "content": "England progressed to the quarter-finals of the Women's World Cup with a 3-0 victory over an enraged Cameroon side who protested after two VAR decisions went against them.\n\nGoals from Steph Houghton, Ellen White and Alex Greenwood sent England through to face Norway on Thursday, but the fractious game will be remembered for Cameroon's extraordinary reactions to White's goal and a disallowed effort from Ajara Nchout.\n\nThe distraught Cameroon players twice appeared unwilling to restart the match, gathering in a huddle after White's strike was given and remonstrating with the officials further after half-time."
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "title": "Demonstrators rally against PM in Czech Republic",
+      "description": "Protesters are calling for Prime Minister Andrej Babis to resign amid fraud allegations.",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4FF6/production/_107507402_054845019-1.jpg",
+      "publishedAt": "2019-06-23T16:47:46Z",
+      "content": "Hundreds of thousands of protesters have taken to the streets of Prague demanding that PM Andrej Babis resign.\n\nMr Babis is facing a criminal investigation over alleged fraud, and is also the subject of an EU conflict-of-interest investigation. He denies the allegations.\n\nOrganisers say about 250,000 people attended the rally. The figure could not be verified.\n\nIt is said to be the largest protest since the fall of communism in 1989."
+    },
+    {
+      "id": 8,
+      "categoryId": 1,
+      "title": "Turkey ruling party set to lose Istanbul election",
+      "description": "Ruling party in Turkey set to lose city of Istanbul after re-run mayoral election in big blow for President Erdogan",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7A23/production/_97176213_breaking_news_bigger.png",
+      "publishedAt": "2019-06-23T16:30:56Z",
+      "content": "Turkey's ruling party is set to lose control of Istanbul after a re-run of the mayoral election, initial results show.\r\nThe candidate for the main opposition party, Ekrem Imamoglu, has a commanding lead with more than 90% of votes counted.\r\nThis breaking news… [+264 chars]"
+    },
+    {
+      "id": 9,
+      "categoryId": 1,
+      "title": "Why police are hunting a group of US state senators",
+      "description": "Republicans from Oregon have been missing since walking out over a climate change law on Thursday.",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0884/production/_107508120_gettyimages-507449350.jpg",
+      "publishedAt": "2019-06-23T15:45:26Z",
+      "content": "Eleven Republican senators from the state of Oregon are in hiding.\n\nThey walked out of Salem's Capitol building on Thursday and state police have been given authorisation to track them down.\n\nThis bizarre series of events has unfolded amid a deep rift between the state's rival parties.\n\nOregon's Democrats, who have a clear Senate majority, want to pass landmark climate change legislation. Local Republicans have fled to stop that happening.\n\nThis weekend, the state capitol had to shut down altogether amid apparent security threats from militia groups."
+    },
+    {
+      "id": 10,
+      "categoryId": 1,
+      "title": "Trump threatens reporter with prison over photo",
+      "description": "\"What was that?!\" the president snaps as an Oval Office reporter apparently oversteps his bounds.",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/583B/production/_107478522_gettyimages-1142455614.jpg",
+      "publishedAt": "2019-06-21T13:44:09Z",
+      "content": "US President Donald Trump threatened a Time magazine photographer with prison for apparently taking a picture of a letter from Kim Jong-un.\n\nMr Trump rebuked the photographer in the Oval Office after he was warned by an aide not to take a photo, according to Time's transcript.\n\nThe interview continued, but grew heated after the special counsel's investigation of Mr Trump came up.\n\n\"You can go to prison instead,\" the president is quoted as saying.\n\nThe interview took place at the White House on Monday, two days before Mr Trump travelled to Florida to formally launch his 2020 re-election campaign."
+    }
+  ]
+}
